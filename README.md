@@ -39,7 +39,7 @@
 - 📌 More coming soon...
 
 ---
-###Currently Working On
+### ✒️ Currently Working On
 - Building Data Analysis projects for my portfolio
 - Completing Microsoft Data Analyst Certification
 - Improving my German (target: B2)
