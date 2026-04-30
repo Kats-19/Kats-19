@@ -36,10 +36,13 @@
 ### 🚀 Featured Projects
 - 📌 Personal Finance Dashboard (Power BI)
 → Interactive dashboard analyzing income, expenses, and financial trends
+→ View project: https://github.com/Kats-19/personal-finance-dashboard-powerbi 
 - 📌 Climate Change Tweet Analysis (Python)
 → Sentiment analysis on 10,000+ tweets using pandas
+→ View project: https://github.com/Kats-19/climate-change-tweet-analysis
 - 📌 Finance Tracker (Python)
 → Data pipeline for tracking and analyzing spending patterns
+→ View project: https://github.com/Kats-19/girly-finance-tracker
 
 ---
 ### ✒️ Currently Working On
