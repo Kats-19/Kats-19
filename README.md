@@ -5,18 +5,18 @@
 
 ### 👩‍💻 About Me
 - 🎓 BSc Computer Science (Minor in Data Science) at Constructor University
-- 🌱 Currently learning **Data Analysis, Python, and Linux Internals**
-- 💡 Interested in **data-driven decision making, tech, and building useful tools**
-- 🛠️ Working on **projects to strengthen my portfolio for internships and future job opportunities**
-- 🎯 Goal: Secure a **Data Analyst / DevOps / IT Internship** and build impactful solutions
-- 💭 I enjoy combining **tech, lifestyle, and creativity** (also building my YouTube!)
+- 📈 Passionate about data analysis, visualization, and data-driven decision making
+- 🛠️ Experienced in analyzing real-world datasets using Python, SQL, Excel, and Power BI
+- 📊 Building projects focused on turning raw data into insights and dashboards
+- 🎯 Goal: Secure a Data Analyst Working Student / Internship role
 
 ---
 
 ### 🛠️ Tech Stack
-- 💻 Languages: Python, SQL, C/C++
+- 💻 Languages: Python, SQL
 - 📊 Data Tools: Power BI, Excel, Pandas
-- 🌐 Other: Git, GitHub
+- 🗄️ Databases: MySQL
+- ⚙️ Tools: Git, GitHub, Jupyter Notebook
 
 ---
 
@@ -33,16 +33,19 @@
 
 ---
 
-### 🚀 Projects
-- 📌 Finance Tracker App (Streamlit)
-- 📌 Data Analysis Projects (Python & Power BI)
-- 📌 More coming soon...
+### 🚀 Featured Projects
+- 📌 Personal Finance Dashboard (Power BI)
+→ Interactive dashboard analyzing income, expenses, and financial trends
+- 📌 Climate Change Tweet Analysis (Python)
+→ Sentiment analysis on 10,000+ tweets using pandas
+- 📌 Finance Tracker (Python)
+→ Data pipeline for tracking and analyzing spending patterns
 
 ---
 ### ✒️ Currently Working On
-- Building Data Analysis projects for my portfolio
+- Building data analysis projects (Power BI, SQL, Python)
 - Completing Microsoft Data Analyst Certification
-- Improving my German (target: B2)
+- Improving German (target: B2)
 
 ---
 
